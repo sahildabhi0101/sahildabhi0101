@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Dabhi</h1>
-<h3 align="center">A Passionate Full Stack Developer + Competitive Coder from India</h3>
+<h3 align="center">A Passionate Full Stack Developer + Competitive Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildabhi0101&label=Profile%20views&color=0e75b6&style=flat" alt="sahildabhi0101" /> </p>
+
+
 
 - 📫 How to reach me **sahildabhi0101@gmail.com**
 
