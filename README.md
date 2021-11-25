@@ -5,14 +5,14 @@
 
 <br /><br />
 
+### 👨🏻‍💻 &nbsp;About Me
+
 - 📫 How to reach me **sahildabhi0101@gmail.com**
 
 - ⚡ Fun fact **do whatever but do best**
-
-- 👨🏻‍💻 About Me
-
+  
 <h3 align="left">
-    ###  &nbsp;
+    
     ---
     🎓 &nbsp;I'm currently studying Computer Engineering at the Birla Vishvakarma Mahavidyalaya Engineering College Anand Gujarat. 
     💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
